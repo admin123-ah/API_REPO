@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-02T16:24:21 IST" name="Default suite" finished-at="2023-05-02T16:26:09 IST" duration-ms="107927">
+    <groups>
+    </groups>
+    <test started-at="2023-05-02T16:24:21 IST" name="Default test" finished-at="2023-05-02T16:26:09 IST" duration-ms="107927">
+      <class name="Tests.Tc1">
+        <test-method is-config="true" signature="Start()[pri:0, instance:Tests.Tc1@2ed2d9cb]" started-at="2023-05-02T16:24:21 IST" name="Start" finished-at="2023-05-02T16:26:09 IST" duration-ms="107705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+        <test-method signature="GetTitle()[pri:0, instance:Tests.Tc1@2ed2d9cb]" started-at="2023-05-02T16:26:09 IST" name="GetTitle" finished-at="2023-05-02T16:26:09 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetTitle -->
+        <test-method signature="GetURL()[pri:0, instance:Tests.Tc1@2ed2d9cb]" started-at="2023-05-02T16:26:09 IST" name="GetURL" finished-at="2023-05-02T16:26:09 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetURL -->
+        <test-method signature="GetWindowHandle()[pri:0, instance:Tests.Tc1@2ed2d9cb]" started-at="2023-05-02T16:26:09 IST" name="GetWindowHandle" finished-at="2023-05-02T16:26:09 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetWindowHandle -->
+        <test-method is-config="true" signature="End()[pri:0, instance:Tests.Tc1@2ed2d9cb]" started-at="2023-05-02T16:26:09 IST" name="End" finished-at="2023-05-02T16:26:09 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End -->
+      </class> <!-- Tests.Tc1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
